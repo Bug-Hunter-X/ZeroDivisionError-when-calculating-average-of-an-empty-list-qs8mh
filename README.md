@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: ZeroDivisionError when calculating the average of an empty list. The solution showcases how to handle this edge case by returning 0 or a suitable default value when the input list is empty.  This prevents unexpected crashes and improves the robustness of the code.
